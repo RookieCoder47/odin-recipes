@@ -1,0 +1,23 @@
+body {
+    background: rgb(112, 110, 93);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    background: rgb(144, 144, 119);
+    margin: 1em 25em;
+    width: 300px;
+    text-align: center;
+
+}
+
+img {
+    margin: 1em 35em;
+}
+
+li {
+    font-size: xx-large;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 100px 350px;
+}
